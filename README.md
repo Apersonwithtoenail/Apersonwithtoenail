@@ -4,29 +4,29 @@ Builder of small, focused Linux tools. Python, GTK, terminal apps.
 
 ## Desktop apps
 
-| Project | What it does |
-|---------|--------------|
-| **[QuillInks](https://github.com/Apersonwithtoenail/QuillInks)** | Modern text editor — GTK4 + Tkinter + Textual |
-| **[PaperRuner](https://github.com/Apersonwithtoenail/PaperRuner)** | Live wallpaper manager for Linux/X11 |
-| **[ACSIIGIFER](https://github.com/Apersonwithtoenail/ACSIIGIFER)** | ASCII art GIF player in a GTK window |
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **[QuillInks](https://github.com/Apersonwithtoenail/QuillInks)** | GTK4 · Tkinter · Textual | Modern text editor — 3 editions |
+| **[PaperRuner](https://github.com/Apersonwithtoenail/PaperRuner)** | GTK3 · mpv · xwinwrap | Live wallpaper manager for X11 |
+| **[ACSIIGIFER](https://github.com/Apersonwithtoenail/ACSIIGIFER)** | GTK3 · chafa · VTE | ASCII art GIF player in a GTK window |
 
 ## Terminal tools
 
-| Project | What it does |
-|---------|--------------|
-| **[Lyrical](https://github.com/Apersonwithtoenail/Lyrical)** | Live lyrics for any MPRIS player |
-| **[TermFetch](https://github.com/Apersonwithtoenail/TermFetch)** | Fast system info — 3 variants, 10 themes, cava, gradient logo |
-| **[EchoHis](https://github.com/Apersonwithtoenail/EchoHis)** | Time-capsule shell — what did you type N days ago? |
-| **[Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole)** | Konsole background hue shifts with your music |
-| **[FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof)** | ASCII creature in your terminal that reacts to typing / music / CPU |
-| **[wallflow](https://github.com/Apersonwithtoenail/wallflow)** | Music-reactive live wallpaper (cava FFT → mpv) |
-| **[Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge)** | Unify Last.fm / Spotify / YT Music / Pixel Music → ListenBrainz |
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **[TermFetch](https://github.com/Apersonwithtoenail/TermFetch)** | Python | Fast system info — 3 variants, 10 themes, cava |
+| **[Lyrical](https://github.com/Apersonwithtoenail/Lyrical)** | Python · playerctl | Live lyrics for any MPRIS player |
+| **[EchoHis](https://github.com/Apersonwithtoenail/EchoHis)** | Python · bash | Time-capsule shell — what did you type N days ago? |
+| **[Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole)** | Python · cava | Konsole background hue shifts with your music |
+| **[FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof)** | Python | ASCII creature that reacts to typing / music / CPU |
+| **[wallflow](https://github.com/Apersonwithtoenail/wallflow)** | Python · mpv · cava | Music-reactive live wallpaper |
+| **[Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge)** | Python | Unify Last.fm / Spotify / YT Music / Pixel Music → ListenBrainz |
 
 ## Meta
 
-| Project | What it does |
-|---------|--------------|
-| **[linux-apps](https://github.com/Apersonwithtoenail/linux-apps)** | One-command installer for all the above |
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **[linux-apps](https://github.com/Apersonwithtoenail/linux-apps)** | Bash | One-command installer for all the above |
 
 ## Install everything
 
