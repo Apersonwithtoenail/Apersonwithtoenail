@@ -20,7 +20,7 @@ Builder of small, focused Linux tools. Python, GTK, terminal apps.
 | **[Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole)** | Konsole background hue shifts with your music |
 | **[FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof)** | ASCII creature in your terminal that reacts to typing / music / CPU |
 | **[wallflow](https://github.com/Apersonwithtoenail/wallflow)** | Music-reactive live wallpaper (cava FFT → mpv) |
-| **[listening-stats-merger](https://github.com/Apersonwithtoenail/listening-stats-merger)** | Unify Last.fm / Spotify / YT Music / Pixel Music → ListenBrainz |
+| **[Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge)** | Unify Last.fm / Spotify / YT Music / Pixel Music → ListenBrainz |
 
 ## Meta
 
