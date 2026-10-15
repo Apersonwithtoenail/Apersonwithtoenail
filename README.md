@@ -15,12 +15,12 @@ Builder of small, focused Linux tools. Python, GTK, terminal apps.
 | Project | What it does |
 |---------|--------------|
 | **[Lyrical](https://github.com/Apersonwithtoenail/Lyrical)** | Live lyrics for any MPRIS player |
-| **[TermFetch](https://github.com/Apersonwithtoenail/TermFetch)** | Fast system info — no dependencies |
+| **[TermFetch](https://github.com/Apersonwithtoenail/TermFetch)** | Fast system info — 3 variants, 10 themes, cava, gradient logo |
+| **[EchoHis](https://github.com/Apersonwithtoenail/EchoHis)** | Time-capsule shell — what did you type N days ago? |
+| **[Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole)** | Konsole background hue shifts with your music |
+| **[FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof)** | ASCII creature in your terminal that reacts to typing / music / CPU |
+| **[wallflow](https://github.com/Apersonwithtoenail/wallflow)** | Music-reactive live wallpaper (cava FFT → mpv) |
 | **[listening-stats-merger](https://github.com/Apersonwithtoenail/listening-stats-merger)** | Unify Last.fm / Spotify / YT Music / Pixel Music → ListenBrainz |
-| **[wallflow](https://github.com/Apersonwithtoenail/wallflow)** | — |
-| **[Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole)** | — |
-| **[EchoHis](https://github.com/Apersonwithtoenail/EchoHis)** | — |
-| **[FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof)** | — |
 
 ## Meta
 
