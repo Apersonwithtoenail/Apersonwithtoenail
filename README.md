@@ -27,6 +27,12 @@ Builder of small, focused Linux tools. Python, GTK, terminal apps, and reverse e
 *   **[YumaPlayer](https://github.com/Apersonwithtoenail/YumaPlayer)**: Found and documented a SQLite `blockedAt` bug in the Android app. Wrote an ETL pipeline to inject 7,000+ ListenBrainz tracks directly into the local database.
     *   *Submitted Pull Request: [MuwMx/YumaPlayer#111](https://github.com/MuwMx/YumaPlayer/pull/111)*
 
+## Hardware & Setups
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| **[lenovo-g560-kali-setup](https://github.com/Apersonwithtoenail/lenovo-g560-kali-setup)** | Bash · xrandr | Dual-screen 1080p setup on a 2010 Lenovo G560 running Kali Linux |
+
 ## Meta
 
 | Project | Stack | What it does |
