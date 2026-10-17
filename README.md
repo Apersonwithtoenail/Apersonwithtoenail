@@ -1,6 +1,6 @@
 # Apersonwithtoenail
 
-Builder of small, focused Linux tools. Python, GTK, terminal apps.
+Builder of small, focused Linux tools. Python, GTK, terminal apps, and reverse engineering.
 
 ## Desktop apps
 
@@ -16,11 +16,16 @@ Builder of small, focused Linux tools. Python, GTK, terminal apps.
 |---------|-------|--------------|
 | **[TermFetch](https://github.com/Apersonwithtoenail/TermFetch)** | Python | Fast system info — 3 variants, 10 themes, cava |
 | **[Lyrical](https://github.com/Apersonwithtoenail/Lyrical)** | Python · playerctl | Live lyrics for any MPRIS player |
-| **[EchoHis](https://github.com/Apersonwithtoenail/EchoHis)** | Python · bash | Time-capsule shell — what did you type N days ago? |
+| **[EchoHis](https://github.com/Apersonwithtoenail/EchoHis)** | Python · bash | Time-capsule shell history |
 | **[Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole)** | Python · cava | Konsole background hue shifts with your music |
 | **[FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof)** | Python | ASCII creature that reacts to typing / music / CPU |
 | **[wallflow](https://github.com/Apersonwithtoenail/wallflow)** | Python · mpv · cava | Music-reactive live wallpaper |
-| **[Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge)** | Python | Unify Last.fm / Spotify / YT Music / Pixel Music → ListenBrainz |
+| **[Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge)** | Python | Unify Last.fm / Spotify / YT Music → ListenBrainz |
+
+## Open Source Contributions
+
+*   **[YumaPlayer](https://github.com/Apersonwithtoenail/YumaPlayer)**: Found and documented a SQLite `blockedAt` bug in the Android app. Wrote an ETL pipeline to inject 7,000+ ListenBrainz tracks directly into the local database.
+    *   *Submitted Pull Request: [MuwMx/YumaPlayer#111](https://github.com/MuwMx/YumaPlayer/pull/111)*
 
 ## Meta
 
