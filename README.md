@@ -25,6 +25,7 @@ Builder of small, focused Linux tools, hardware setups, and Python utilities.
 |---------|-------|-------------|
 | **[Lenovo-G560-Kali-Setup](https://github.com/Apersonwithtoenail/Lenovo-G560-Kali-Setup)** | Bash · xrandr | 1080p dual-screen and audio automation for legacy hardware |
 | **[adb-rescue-tool](https://github.com/Apersonwithtoenail/adb-rescue-tool)** | Bash · adb | Recover data from failing Android devices by skipping corrupted files |
+| **[tailscale-kali-remote](https://github.com/Apersonwithtoenail/tailscale-kali-remote)** | Tailscale · SSH | Access a Kali machine remotely from Termux |
 
 ## Meta
 | Project | Stack | Description |
