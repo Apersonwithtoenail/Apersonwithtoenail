@@ -24,6 +24,7 @@ Builder of small, focused Linux tools, hardware setups, and Python utilities.
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **[Lenovo-G560-Kali-Setup](https://github.com/Apersonwithtoenail/Lenovo-G560-Kali-Setup)** | Bash · xrandr | 1080p dual-screen and audio automation for legacy hardware |
+| **[adb-rescue-tool](https://github.com/Apersonwithtoenail/adb-rescue-tool)** | Bash · adb | Recover data from failing Android devices by skipping corrupted files |
 
 ## Meta
 | Project | Stack | Description |
